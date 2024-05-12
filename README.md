@@ -5,6 +5,12 @@
       서울시립대학교 컴퓨터과학부 (2018.03~)
     </li>
   </ul>
+  <h2>오픈 소스</h2>
+  <ul>
+    <li>
+      toss/es-hangul: https://github.com/toss/es-hangul/pull/68, https://github.com/toss/es-hangul/issues/60
+    </li>
+  </ul>
   <h2>프로젝트</h2>
   <ul>
     <li>
