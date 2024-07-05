@@ -12,7 +12,7 @@
 
 - 서울시립대학교 중앙동아리 유도부 홈페이지 제작 
   - 기간 2022.12 ~ 2023.02
-  - [깃헙 페이지 바로가기](https://github.com/uos-judo-jiho/.github)
+  - [깃헙 페이지 바로가기](https://github.com/uos-judo-jiho)
   - [홈페이지 바로가기](https://uosjudo.com/)
  
 ## 커리어
