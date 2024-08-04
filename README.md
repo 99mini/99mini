@@ -18,8 +18,8 @@
 ## 커리어
 
 - 2023하반기 ICT인턴쉽 (23.09.01 ~ 23.12.31): 프론트엔드 포지션
-- 오늘의웹툰 (24.02.06 ~ ): 소프트웨어 엔지니어 (프론트엔드 포지션)
-  - react, typescript, sass(scss), recoil, storybook, rollup
+- 오늘의웹툰 (24.02.06 ~ 24.08.31): 소프트웨어 엔지니어 (프론트엔드 포지션)
+  - `react`, `typescript`, `sass(scss)`, `recoil`, `storybook`, `rollup`
 
 ## github
 
