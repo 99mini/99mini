@@ -19,10 +19,19 @@
 
 ## 프로젝트
 
-- 서울시립대학교 중앙동아리 유도부 홈페이지 제작
-  - 기간 2022.12 ~ 2023.02
-  - [깃헙 페이지 바로가기](https://github.com/uos-judo-jiho)
-  - [홈페이지 바로가기](https://uosjudo.com/)
+### 서울시립대학교 중앙동아리 유도부 홈페이지 제작
+
+- 기간 2022.12 ~ 2023.02
+- [깃헙 페이지 바로가기](https://github.com/uos-judo-jiho)
+- [홈페이지 바로가기](https://uosjudo.com/)
+
+### react ui & javascript/typescript util library
+
+- 기간 2024.03.14 ~
+- [깃헙 페이지 바로가기](https://github.com/99mini/frontend-libraries)
+- yarn workspace mono-repo
+- [npm publish](https://www.npmjs.com/~99mini)
+- `storybook`, `Chromatic`, `jest`, `scss`, `rollup`
 
 ## 오픈 소스
 
