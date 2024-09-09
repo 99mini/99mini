@@ -5,13 +5,13 @@
 
 ## 커리어
 
-### 2023하반기 ICT인턴쉽 ([오늘의웹툰](https://metric.webtoon.today/))
+### 2023하반기 ICT인턴쉽 ([오늘의웹툰](https://webtoon.today/))
 
 - 23.09.01 ~ 23.12.31
 - 성장팀 - 프론트엔드 엔지니어
 - 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`
 
-### [오늘의웹툰](https://metric.webtoon.today/)
+### [오늘의웹툰](https://webtoon.today/)
 
 - 24.02.06 ~ 24.08.31
 - 성장팀 - 소프트웨어 엔지니어 (프론트엔드 엔지니어)
