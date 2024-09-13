@@ -13,7 +13,7 @@
 
 ### [오늘의웹툰](https://webtoon.today/)
 
-- 24.02.06 ~ 24.08.31
+- 24.02.06 ~ 24.09.03
 - 성장팀 - 소프트웨어 엔지니어 (프론트엔드 엔지니어)
 - 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`, `storybook`, `rollup`
 
