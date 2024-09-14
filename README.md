@@ -43,7 +43,7 @@
 
 - [toss/es-hangul](https://github.com/toss/es-hangul)
   - https://github.com/toss/es-hangul/issues/60
-  - https://github.com/toss/es-hangul/pull/68,
+  - https://github.com/toss/es-hangul/pull/68
 
 ## 교육
 
