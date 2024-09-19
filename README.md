@@ -1,7 +1,6 @@
 ## 99mini
 
 - Frontend engineer
-- contact: [0mini9939@gmail.com](mailto:0mini9939@gmail.com)
 
 ## 경험
 
@@ -11,7 +10,7 @@
 - 성장팀 - 프론트엔드 엔지니어
 - 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`
 
-### [오늘의웹툰](https://webtoon.today/)
+### [오늘의웹툰](https://metric.webtoon.today/)
 
 - 24.02.06 ~ 24.09.03
 - 성장팀 - 소프트웨어 엔지니어 (프론트엔드 엔지니어)
