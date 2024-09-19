@@ -32,7 +32,7 @@
 - [npm publish](https://www.npmjs.com/~99mini)
 - `storybook`, `Chromatic`, `jest`, `scss`, `rollup`
 
-### 서울시립대학교 중앙동아리 유도부 홈페이지 제작
+### 교내 중앙동아리 유도부 홈페이지 제작
 
 - 기간 2022.12 ~ 2023.02
 - [깃헙 페이지 바로가기](https://github.com/uos-judo-jiho)
@@ -43,10 +43,6 @@
 - [toss/es-hangul](https://github.com/toss/es-hangul)
   - https://github.com/toss/es-hangul/issues/60
   - https://github.com/toss/es-hangul/pull/68
-
-## 교육
-
-- 서울시립대학교 컴퓨터과학부 (2018.03~)
 
 ## github
 
