@@ -44,7 +44,30 @@
   - [Feature]: 영문 자판을 한글 자판으로 수정하는 함수 [#60](https://github.com/toss/es-hangul/issues/60)
   - feat: 영문 알파벳을 qwerty 자판에 매칭되는 한글로 변환하는 함수 추가 [#68](https://github.com/toss/es-hangul/pull/68)
 
+## Algorithm
+
+<table>
+  <tbody><tr>
+<td>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=min390)](https://solved.ac/min390)
+
+</td>
+<td>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/99mini)](https://leetcode.com/99mini)
+
+</td>
+</tr></tbody>
+</table>
+
 ## github
+
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F99mini%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 <table>
   <tbody><tr>
@@ -60,3 +83,4 @@
 </td>
 </tr></tbody>
 </table>
+
