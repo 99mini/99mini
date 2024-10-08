@@ -41,8 +41,8 @@
 ## 오픈 소스
 
 - [toss/es-hangul](https://github.com/toss/es-hangul)
-  - https://github.com/toss/es-hangul/issues/60
-  - https://github.com/toss/es-hangul/pull/68
+  - [Feature]: 영문 자판을 한글 자판으로 수정하는 함수 [#60](https://github.com/toss/es-hangul/issues/60)
+  - feat: 영문 알파벳을 qwerty 자판에 매칭되는 한글로 변환하는 함수 추가 [#68](https://github.com/toss/es-hangul/pull/68)
 
 ## github
 
