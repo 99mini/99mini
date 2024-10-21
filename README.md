@@ -43,7 +43,9 @@
 - [toss/es-hangul](https://github.com/toss/es-hangul)
   - [Feature]: 영문 자판을 한글 자판으로 수정하는 함수 [#60](https://github.com/toss/es-hangul/issues/60)
   - feat: 영문 알파벳을 qwerty 자판에 매칭되는 한글로 변환하는 함수 추가 [#68](https://github.com/toss/es-hangul/pull/68)
-
+- [modern-agile-team/modern-kit](https://github.com/modern-agile-team/modern-kit)
+  - feat(react): useFocus 신규 훅 추가 [#510](https://github.com/modern-agile-team/modern-kit/pull/510)
+  - feat(utils): formatSizeStyleValue 함수 추가 [#521](https://github.com/modern-agile-team/modern-kit/pull/521)
 ## Algorithm
 
 <table>
