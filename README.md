@@ -50,20 +50,7 @@
 
 <div align=center>
 
-<table>
-  <tbody><tr>
-<td>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=min390)](https://solved.ac/min390)
-
-</td>
-<td>
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/99mini)](https://leetcode.com/99mini)
-
-</td>
-</tr></tbody>
-</table>
 
 </div>
 
