@@ -64,7 +64,7 @@
 
 <div align=center>
   
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99mini)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99mini)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 
