@@ -48,6 +48,8 @@
   - feat(utils): formatSizeStyleValue 함수 추가 [#521](https://github.com/modern-agile-team/modern-kit/pull/521)
 ## Algorithm
 
+<div align=center>
+
 <table>
   <tbody><tr>
 <td>
@@ -63,6 +65,8 @@
 </tr></tbody>
 </table>
 
+</div>
+
 ## github
 
 <div align=center>
@@ -71,8 +75,18 @@
 
 </div>
 
+<div align=center>
+  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99mini)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align=center>
+
 <table>
-  <tbody><tr>
+  <tbody>
+        <tr>
+    <tr>
 <td>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=99mini)](https://github.com/anuraghazra/github-readme-stats)
@@ -83,6 +97,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99mini&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
-</tr></tbody>
+    </tr>
+  </tbody>
 </table>
 
+</div>
