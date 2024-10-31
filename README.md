@@ -63,12 +63,6 @@
 </div>
 
 <div align=center>
-  
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99mini)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align=center>
 
 <table>
   <tbody>
@@ -87,5 +81,13 @@
     </tr>
   </tbody>
 </table>
+
+</div>
+
+## Waka
+
+<div align=center>
+  
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99mini)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
