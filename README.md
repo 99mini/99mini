@@ -20,17 +20,17 @@
 
 ### 2024-2 Capstone Design (In progress)
 
-- 기간 2024.09 ~
+- 기간 2024.09.01 ~ 12.20
 - [깃헙 페이지 바로가기](https://github.com/UOS-Capstone)
 - `React Native`, `emotion`
 
-### react ui & javascript/typescript util library
+<!-- ### react ui & javascript/typescript util library
 
 - 기간 2024.03.14 ~
 - [깃헙 페이지 바로가기](https://github.com/99mini/frontend-libraries)
 - yarn workspace mono-repo
 - [npm publish](https://www.npmjs.com/~99mini)
-- `storybook`, `Chromatic`, `jest`, `scss`, `rollup`
+- `storybook`, `Chromatic`, `jest`, `scss`, `rollup` -->
 
 ### 교내 중앙동아리 유도부 홈페이지 제작
 
@@ -46,6 +46,7 @@
 - [modern-agile-team/modern-kit](https://github.com/modern-agile-team/modern-kit)
   - feat(react): useFocus 신규 훅 추가 [#510](https://github.com/modern-agile-team/modern-kit/pull/510)
   - feat(utils): formatSizeStyleValue 함수 추가 [#521](https://github.com/modern-agile-team/modern-kit/pull/521)
+
 ## Algorithm
 
 <div align=center>
