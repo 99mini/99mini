@@ -22,7 +22,7 @@
 
 - 기간 2024.09.01 ~ 12.20
 - 반찬 가게 재고 판매를 위한 플렛폼 어플리케이션
-- [깃헙 페이지 바로가기](https://github.com/UOS-Capstone)
+- [깃헙 페이지 바로가기](https://github.com/ummgoban)
 - `React Native`, `emotion`
 
 <!-- ### react ui & javascript/typescript util library
