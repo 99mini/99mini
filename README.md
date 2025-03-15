@@ -4,23 +4,24 @@
 
 ## 경험
 
+### [오늘의웹툰](https://metric.webtoon.today/)
+
+- 24.02.06 ~ 24.09.03
+- 성장팀 - 소프트웨어 엔지니어 (프론트엔드 엔지니어)
+- 웹툰메트릭 개발: 웹툰 전용 마케팅 솔류션 (b2b saas)
+- 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`, `storybook`, `rollup`
+
 ### 2023하반기 ICT인턴쉽 ([오늘의웹툰](https://webtoon.today/))
 
 - 23.09.01 ~ 23.12.31
 - 성장팀 - 프론트엔드 엔지니어
 - 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`
 
-### [오늘의웹툰](https://metric.webtoon.today/)
-
-- 24.02.06 ~ 24.09.03
-- 성장팀 - 소프트웨어 엔지니어 (프론트엔드 엔지니어)
-- 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`, `storybook`, `rollup`
-
 ## 프로젝트
 
 ### 2024-2 Capstone Design
 
-- 기간 2024.09.01 ~ 12.20
+- 기간 2024.09.01 ~ 12.20, 2025 ~
 - 반찬 가게 재고 판매를 위한 플렛폼 어플리케이션
 - [깃헙 페이지 바로가기](https://github.com/ummgoban)
 - `React Native`, `emotion`
