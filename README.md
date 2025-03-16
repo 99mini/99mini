@@ -24,6 +24,7 @@
 - 기간 2024.09.01 ~ 12.20, 2025 ~
 - 반찬 가게 재고 판매를 위한 플렛폼 어플리케이션
 - [깃헙 페이지 바로가기](https://github.com/ummgoban)
+- [홈페이지 바로가기](https://ummgoban.github.io/)
 - `React Native`, `emotion`
 
 <!-- ### react ui & javascript/typescript util library
@@ -88,6 +89,14 @@
 </div>
 
 ## Waka
+
+<div align=center>
+
+Since Oct 25 2024
+  
+[![wakatime](https://wakatime.com/badge/user/32601717-9798-42b7-a297-7ec7581ff7c8.svg)](https://wakatime.com/@32601717-9798-42b7-a297-7ec7581ff7c8)
+
+</div>
 
 <div align=center>
   
