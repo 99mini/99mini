@@ -50,6 +50,7 @@
   - feat(react): useFocus 신규 훅 추가 [#510](https://github.com/modern-agile-team/modern-kit/pull/510)
   - feat(utils): formatSizeStyleValue 함수 추가 [#521](https://github.com/modern-agile-team/modern-kit/pull/521)
 
+<!--
 ## Algorithm
 
 <div align=center>
@@ -57,6 +58,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=min390)](https://solved.ac/min390)
 
 </div>
+
+-->
 
 ## github
 
@@ -69,6 +72,7 @@
 <td>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=99mini)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </td>
 <td>
