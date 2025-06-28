@@ -4,18 +4,19 @@
 
 ## 경험
 
-### [오늘의웹툰](https://metric.webtoon.today/)
+### [오늘의웹툰](https://webtoon.today/)
 
 - 24.02.06 ~ 24.09.03
 - 성장팀 - 소프트웨어 엔지니어 (프론트엔드 엔지니어)
 - 웹툰메트릭 개발: 웹툰 전용 마케팅 솔류션 (b2b saas)
 - 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`, `storybook`, `rollup`
 
-### 2023하반기 ICT인턴쉽 ([오늘의웹툰](https://webtoon.today/))
+### 2023하반기 ICT인턴쉽 오늘의웹툰
 
 - 23.09.01 ~ 23.12.31
-- 성장팀 - 프론트엔드 엔지니어
+- 성장팀 - 프론트엔드 엔지니어 (인턴)
 - 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`
+
 
 ## 프로젝트
 
@@ -27,19 +28,13 @@
 - [홈페이지 바로가기](https://ummgoban.github.io/)
 - `React Native`, `emotion`
 
-<!-- ### react ui & javascript/typescript util library
-
-- 기간 2024.03.14 ~
-- [깃헙 페이지 바로가기](https://github.com/99mini/frontend-libraries)
-- yarn workspace mono-repo
-- [npm publish](https://www.npmjs.com/~99mini)
-- `storybook`, `Chromatic`, `jest`, `scss`, `rollup` -->
 
 ### 교내 중앙동아리 유도부 홈페이지 제작
 
 - 기간 2022.12 ~ 2023.02
 - [깃헙 페이지 바로가기](https://github.com/uos-judo-jiho)
 - [홈페이지 바로가기](https://uosjudo.com/)
+
 
 ## 오픈 소스
 
@@ -49,17 +44,6 @@
 - [modern-agile-team/modern-kit](https://github.com/modern-agile-team/modern-kit)
   - feat(react): useFocus 신규 훅 추가 [#510](https://github.com/modern-agile-team/modern-kit/pull/510)
   - feat(utils): formatSizeStyleValue 함수 추가 [#521](https://github.com/modern-agile-team/modern-kit/pull/521)
-
-<!--
-## Algorithm
-
-<div align=center>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=min390)](https://solved.ac/min390)
-
-</div>
-
--->
 
 ## github
 
@@ -77,7 +61,7 @@
 </td>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99mini&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99mini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
     </tr>
@@ -98,6 +82,6 @@ Since Oct 25 2024
 
 <div align=center>
   
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99mini)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99mini&layout=compact&langs_count=16&custom_title=WakaTime%20Stats%20(16%20langs))](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
