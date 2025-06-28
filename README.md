@@ -8,14 +8,14 @@
 
 - 24.02.06 ~ 24.09.03
 - 성장팀 - 소프트웨어 엔지니어 (프론트엔드 엔지니어)
-- 웹툰메트릭 개발: 웹툰 전용 마케팅 솔류션 (b2b saas)
+- 웹툰메트릭 개발: 웹툰 전용 마케팅 솔루션 (b2b saas)
 - 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`, `storybook`, `rollup`
 
 ### 2023하반기 ICT인턴쉽 오늘의웹툰
 
 - 23.09.01 ~ 23.12.31
 - 성장팀 - 프론트엔드 엔지니어 (인턴)
-- 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`
+- 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`, `MUI`
 
 
 ## 프로젝트
@@ -26,7 +26,7 @@
 - 반찬 가게 재고 판매를 위한 플렛폼 어플리케이션
 - [깃헙 페이지 바로가기](https://github.com/ummgoban)
 - [홈페이지 바로가기](https://ummgoban.github.io/)
-- `React Native`, `emotion`
+- `React Native`, `emotion`, `react-query`, `zustand`
 
 
 ### 교내 중앙동아리 유도부 홈페이지 제작
@@ -34,6 +34,7 @@
 - 기간 2022.12 ~ 2023.02
 - [깃헙 페이지 바로가기](https://github.com/uos-judo-jiho)
 - [홈페이지 바로가기](https://uosjudo.com/)
+- `react`, `vite`, `tailwind`
 
 
 ## 오픈 소스
