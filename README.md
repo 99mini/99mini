@@ -3,40 +3,41 @@
 - Frontend engineer
 - skill: javascript/typescript, React
 
-## 경험
+## Work Experience
 
-### [오늘의웹툰](https://webtoon.today/)
+### 오늘의웹툰 [(Webtoontoday)](https://webtoon.today/)
 
 - 24.02.06 ~ 24.09.03
-- 성장팀 - 소프트웨어 엔지니어 (프론트엔드 엔지니어)
-- 웹툰메트릭 개발: 웹툰 전용 마케팅 솔루션 (b2b saas)
-- 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`, `storybook`, `rollup`
+- 성장팀 (growth team) - Software Engineer (Frontend Engineer)
+- Webtoon Metric Development: Webtoon specific marketing solution (B2B SaaS)
+- skill: `react`, `typescript`, `sass(scss)`, `recoil`, `storybook`, `rollup`
 
-### 2023하반기 ICT인턴쉽 오늘의웹툰
+### ICT Internship in the Second Half Year of 2023
 
 - 23.09.01 ~ 23.12.31
-- 성장팀 - 프론트엔드 엔지니어 (인턴)
-- 기술 스택: `react`, `typescript`, `sass(scss)`, `recoil`, `MUI`
+- 오늘의웹툰 (Webtoontoday)
+- 성장팀 (growth team) - Frontend Engineer Intern
+- skill: `react`, `typescript`, `sass(scss)`, `recoil`, `MUI`
 
 
-## 프로젝트
+## Project
 
-### 2024-2 Capstone Design
+### 24-2 Capstone Design
 
-- 기간 2024.09.01 ~ 12.20, 2025 ~
-- 반찬 가게 재고 판매를 위한 플렛폼 어플리케이션
-- [깃헙 페이지 바로가기](https://github.com/ummgoban)
-- [홈페이지 바로가기](https://ummgoban.github.io/)
+- 24.09.01 ~ 12.20, 25 ~
+- Platform application for selling side dish store inventory
+- [Github](https://github.com/ummgoban)
+- [Homepage](https://ummgoban.com)
 - `React Native`, `emotion`, `react-query`, `zustand`
 
-### 교내 중앙동아리 유도부 홈페이지 제작
+### Judo Club homepage 
 
-- 기간 2022.12 ~ 2023.02
-- [깃헙 페이지 바로가기](https://github.com/uos-judo-jiho)
-- [홈페이지 바로가기](https://uosjudo.com/)
+- 22.12 ~ 23.02
+- [Github](https://github.com/uos-judo-jiho)
+- [Homepage](https://uosjudo.com/)
 - `react`, `vite`, `tailwind`
 
-## 오픈 소스
+## Open Source
 
 - [toss/es-hangul](https://github.com/toss/es-hangul)
   - [Feature]: 영문 자판을 한글 자판으로 수정하는 함수 [#60](https://github.com/toss/es-hangul/issues/60)
@@ -86,7 +87,7 @@ Since Oct 25 2024
 
 </div>
 
-## 교육
+## Education
 
 - University Of Seoul B.S in Computer Science and Engineering
 - 18.03 ~ 25.02
