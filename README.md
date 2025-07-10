@@ -1,6 +1,7 @@
 ## 99mini
 
 - Frontend engineer
+- skill: javascript/typescript, React
 
 ## 경험
 
@@ -28,14 +29,12 @@
 - [홈페이지 바로가기](https://ummgoban.github.io/)
 - `React Native`, `emotion`, `react-query`, `zustand`
 
-
 ### 교내 중앙동아리 유도부 홈페이지 제작
 
 - 기간 2022.12 ~ 2023.02
 - [깃헙 페이지 바로가기](https://github.com/uos-judo-jiho)
 - [홈페이지 바로가기](https://uosjudo.com/)
 - `react`, `vite`, `tailwind`
-
 
 ## 오픈 소스
 
@@ -86,3 +85,9 @@ Since Oct 25 2024
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99mini&layout=compact&langs_count=16&custom_title=WakaTime%20Stats%20(16%20langs))](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+## 교육
+
+- University Of Seoul B.S in Computer Science and Engineering
+- 18.03 ~ 25.02
+
