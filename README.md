@@ -46,6 +46,11 @@
   - feat(react): useFocus 신규 훅 추가 [#510](https://github.com/modern-agile-team/modern-kit/pull/510)
   - feat(utils): formatSizeStyleValue 함수 추가 [#521](https://github.com/modern-agile-team/modern-kit/pull/521)
 
+## Education
+
+- University Of Seoul B.S in Computer Science and Engineering
+- 18.03 ~ 25.02
+
 ## github
 
 <div align=center>
@@ -86,9 +91,3 @@ Since Oct 25 2024
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=99mini&layout=compact&langs_count=16&custom_title=WakaTime%20Stats%20(16%20langs))](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-## Education
-
-- University Of Seoul B.S in Computer Science and Engineering
-- 18.03 ~ 25.02
-
