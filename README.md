@@ -3,9 +3,10 @@
 - Frontend engineer
 - skill: javascript/typescript, React
 
+
 ## Work Experience
 
-### 오늘의웹툰 [(Webtoontoday)](https://webtoon.today/)
+### 오늘의웹툰 [(Webtoon today)](https://webtoon.today/)
 
 - 24.02.06 ~ 24.09.03
 - 성장팀 (growth team) - Software Engineer (Frontend Engineer)
