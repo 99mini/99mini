@@ -1,7 +1,7 @@
 ## 99mini
 
 - Frontend engineer
-- skill: javascript/typescript, React
+- skill: javascript/typescript, ReactJs, NextJs, emotion, scss
 
 
 ## Work Experience
