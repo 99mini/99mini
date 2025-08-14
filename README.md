@@ -1,4 +1,4 @@
-## 99mini
+## Young Min Kim (99mini)
 
 - Frontend engineer
 - skill: javascript/typescript, ReactJs, NextJs, emotion, scss
