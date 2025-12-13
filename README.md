@@ -1,7 +1,7 @@
 ## Young Min Kim (99mini)
 
 - Frontend engineer
-- skill: javascript/typescript, ReactJs, NextJs, emotion, scss
+- `javascript`, `typescript`, `react`, and sometimes `python`
 
 
 ## Work Experience
@@ -11,46 +11,47 @@
 - 24.02.06 ~ 24.09.03
 - 성장팀 (growth team) - Software Engineer (Frontend Engineer)
 - Webtoon Metric Development: Webtoon specific marketing solution (B2B SaaS)
-- skill: `react`, `typescript`, `sass(scss)`, `recoil`, `storybook`, `rollup`
+- `react`, `typescript`, `sass(scss)`, `recoil`, `storybook`, `rollup`
 
-### ICT Internship in the Second Half Year of 2023
+
+### ICT Internship in the Second Half Year of 2023 (오늘의웹툰 (Webtoontoday))
 
 - 23.09.01 ~ 23.12.31
-- 오늘의웹툰 (Webtoontoday)
 - 성장팀 (growth team) - Frontend Engineer Intern
-- skill: `react`, `typescript`, `sass(scss)`, `recoil`, `MUI`
+- `react`, `typescript`, `sass(scss)`, `recoil`, `MUI`
 
 
 ## Project
 
 ### 24-2 Capstone Design
 
-- 24.09.01 ~ 12.20, 25 ~
+- 24.09.01 ~ 12.20, 25.01 ~ 25.08 `Maintenance suspended`
+- [Github](https://github.com/ummgoban), [Homepage](https://ummgoban.github.io/)
 - Platform application for selling side dish store inventory
-- [Github](https://github.com/ummgoban)
-- [Homepage](https://ummgoban.com)
-- `React Native`, `emotion`, `react-query`, `zustand`
+- Capstone Design Excellence Award (25.01.03)
+- `react-native`, `typescript`, `emotion`, `react-query`, `zustand`, and `react` for `webview`
+
 
 ### Judo Club homepage 
 
-- 22.12 ~ 23.02
-- [Github](https://github.com/uos-judo-jiho)
-- [Homepage](https://uosjudo.com/)
-- `react`, `vite`, `tailwind`
+- 22.12 ~ 23.02, `In active development`
+- [Github](https://github.com/uos-judo-jiho), [Homepage](https://uosjudo.com/)
+- Webpage of the Judo Club (Jiho)
+- Implementing SSR using Express and React
+- `react`, `typescript`, `vite`, `tailwindcss`, `express`
+
 
 ## Open Source
 
-- [toss/es-hangul](https://github.com/toss/es-hangul)
-  - [Feature]: 영문 자판을 한글 자판으로 수정하는 함수 [#60](https://github.com/toss/es-hangul/issues/60)
-  - feat: 영문 알파벳을 qwerty 자판에 매칭되는 한글로 변환하는 함수 추가 [#68](https://github.com/toss/es-hangul/pull/68)
-- [modern-agile-team/modern-kit](https://github.com/modern-agile-team/modern-kit)
-  - feat(react): useFocus 신규 훅 추가 [#510](https://github.com/modern-agile-team/modern-kit/pull/510)
-  - feat(utils): formatSizeStyleValue 함수 추가 [#521](https://github.com/modern-agile-team/modern-kit/pull/521)
+- [toss/es-hangul](https://github.com/toss/es-hangul): [#60](https://github.com/toss/es-hangul/issues/60), [#68](https://github.com/toss/es-hangul/pull/68)
+- [modern-agile-team/modern-kit](https://github.com/modern-agile-team/modern-kit): [#510](https://github.com/modern-agile-team/modern-kit/pull/510), [#521](https://github.com/modern-agile-team/modern-kit/pull/521)
+
 
 ## Education
 
 - University Of Seoul B.S in Computer Science and Engineering
 - 18.03 ~ 25.02
+
 
 ## github
 
