@@ -1,6 +1,7 @@
 ## Young Min Kim (99mini)
 
-- Frontend engineer
+- Frontend Engineer
+- Interested in Functional Programming
 - `javascript`, `typescript`, `react`, and sometimes `python`
 
 
@@ -52,8 +53,9 @@
 - University Of Seoul B.S in Computer Science and Engineering
 - 18.03 ~ 25.02
 
+## Activity & Stats
 
-## github
+### github
 
 <div align=center>
 
@@ -78,7 +80,7 @@
 
 </div>
 
-## Waka
+### Waka
 
 <div align=center>
 
