@@ -32,8 +32,8 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
-          STOP_AT_OTHER: false # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
+          STOP_AT_OTHER: true # optional
+          # IGNORED_LANGUAGES: YAML JSON TOML # optional
 
           ### commit
           COMMIT_MESSAGE: "[action-bot] Updated waka-readme graph with new metrics" # optional
