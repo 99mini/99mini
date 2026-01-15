@@ -58,16 +58,6 @@
 
 ### Waka
 
-<div align=center>
-
-Since Oct 25 2024
-
-[![wakatime](https://wakatime.com/badge/user/32601717-9798-42b7-a297-7ec7581ff7c8.svg)](https://wakatime.com/@32601717-9798-42b7-a297-7ec7581ff7c8)
-
-</div>
-
-<div align=center>
-  
 <!--START_SECTION:waka-->
 
 ```rust
@@ -85,5 +75,3 @@ Other                      17 hrs 7 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-</div>
