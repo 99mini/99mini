@@ -40,5 +40,5 @@ jobs:
           COMMITTER_NAME: GitHubActionBot # optional
           COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: 99mini # optional
-          AUTHOR_EMAIL: 0mini9939@gmail.com # optional
+          AUTHOR_EMAIL: itman390@gmail.com # optional
           # you can populate email-id with secrets instead
