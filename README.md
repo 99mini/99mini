@@ -6,6 +6,12 @@
 
 ## Work Experience
 
+### Toss Bank
+
+- 26.01.19 ~ Present
+- Frontend Developer
+- `react`, `nextjs16`, `pandacss`, `react-query`
+
 ### 알렌의서재 (리비바이오)
 
 - 25.08.18 ~ 26.01.13
