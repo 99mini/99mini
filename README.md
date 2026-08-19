@@ -54,6 +54,7 @@
 
 - [toss/es-hangul](https://github.com/toss/es-hangul): [#60](https://github.com/toss/es-hangul/issues/60), [#68](https://github.com/toss/es-hangul/pull/68)
 - [modern-agile-team/modern-kit](https://github.com/modern-agile-team/modern-kit): [#510](https://github.com/modern-agile-team/modern-kit/pull/510), [#521](https://github.com/modern-agile-team/modern-kit/pull/521)
+- [react-kakao-maps-sdk](https://github.com/JaeSeoKim/react-kakao-maps-sdk): [#87](https://github.com/JaeSeoKim/react-kakao-maps-sdk/pull/87) 
 
 ## Education
 
