@@ -47,7 +47,7 @@
 <div align="center">
   <a href="https://github.com/99mini">
     <img
-      src="https://github-readme-stats-mauve-one-iw83ipmc6d.vercel.app/api?username=99mini&show_icons=true&hide_border=true&rank_icon=github"
+      src="https://github-readme-stats-mauve-one-iw83ipmc6d.vercel.app/api?username=99mini&show_icons=true&hide_border=true"
       alt="GitHub Stats"
     />
   </a>
