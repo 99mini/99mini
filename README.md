@@ -6,31 +6,10 @@
 
 ## Work Experience
 
-### Toss Bank
-
-- 26.01.19 ~ Present
-- Frontend Developer
-- `react`, `nextjs16`, `pandacss`, `react-query`
-
-### 알렌의서재 (리비바이오)
-
-- 25.08.18 ~ 26.01.13
-- 메이퓨어팀 - Frontend Engineer
-- Improving Medical Website SEO and Internationalization (i18n)
-- `react`, `typescript`, `next.js`, `i18next`, `emotion`, `antd`
-
-### 오늘의웹툰 [(Webtoon today)](https://webtoon.today/)
-
-- 24.02.06 ~ 24.09.03
-- 성장팀 (growth team) - Software Engineer (Frontend Engineer)
-- Webtoon Metric Development: Webtoon specific marketing solution (B2B SaaS)
-- `react`, `typescript`, `sass(scss)`, `recoil`, `storybook`, `rollup`
-
-### ICT Internship in the Second Half Year of 2023 (오늘의웹툰 (Webtoontoday))
-
-- 23.09.01 ~ 23.12.31
-- 성장팀 (growth team) - Frontend Engineer Intern
-- `react`, `typescript`, `sass(scss)`, `recoil`, `MUI`
+- Toss Bank: 26.01.19 ~ Present
+- 알렌의서재 (리비바이오): 25.08.18 ~ 26.01.13
+- 오늘의웹툰 [(Webtoon today)](https://webtoon.today/): 24.02.06 ~ 24.09.03
+- ICT Internship in the Second Half Year of 2023 (오늘의웹툰 (Webtoontoday)): 23.09.01 ~ 23.12.31
 
 ## Project
 
@@ -62,6 +41,17 @@
 - 18.03 ~ 25.02
 
 ## Activity & Stats
+
+### Github
+
+<div align="center">
+  <a href="https://github.com/99mini">
+    <img
+      src="https://github-readme-stats-mauve-one-iw83ipmc6d.vercel.app/api?username=99mini&show_icons=true&hide_border=true&rank_icon=github"
+      alt="GitHub Stats"
+    />
+  </a>
+</div>
 
 ### Waka
 
